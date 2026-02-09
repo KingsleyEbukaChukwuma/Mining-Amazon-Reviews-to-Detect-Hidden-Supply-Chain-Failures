@@ -163,12 +163,11 @@ Detects multi failure patterns.
 Weighted metric representing operational failure intensity.
 
 
-## Key Findings (Example Insights)
+## Key Findings
 
 - Defective products dominate operational complaints
 - Issue frequency strongly correlates with low ratings
-- Supply chain failures show stable long-term patterns
-- Most reviews describe a single primary failure
+- Supply chain failures show stable long term patterns
 
 
 ## Outputs
